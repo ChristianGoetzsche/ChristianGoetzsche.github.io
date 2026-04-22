@@ -321,16 +321,16 @@ p {
 }
 
 h1 {
-    color: darkred;
+    color: white;
     font-size: 30pt;
     text-align: center;
 }
 
 
 h2 {
-    color: white;
-    font-size: 10pt;
-    text-align: left;
+    color: darkred;
+    font-size: 30pt;
+    text-align: center;
 }
 
 
